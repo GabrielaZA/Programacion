@@ -1,0 +1,12 @@
+.table_header{
+    width: 700px;
+}
+th{
+    border: solid 2px black;
+    border-radius: 5px;
+}
+td{
+    border: solid 2px black;
+    border-radius: 5px;
+    text-align: center;
+}
